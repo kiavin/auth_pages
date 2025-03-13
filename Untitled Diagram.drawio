@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qDvylR8AlXHTl3D4_xI9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="180" width="120" height="60" as="geometry" />
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-1" value="Frontend(Vue.js)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-2" value="Backend(PHP API)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-3" value="&lt;div&gt;Google Cloud storage&lt;/div&gt;&lt;div&gt;(file storage)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-4" value="&lt;div&gt;Databasee&lt;/div&gt;&lt;div&gt;(postgreSQL)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-5" value="&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;(Email Queue)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDvylR8AlXHTl3D4_xI9-6" value="&lt;div&gt;Email service&lt;/div&gt;&lt;div&gt;(SMTP)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
