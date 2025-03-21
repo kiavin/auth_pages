@@ -528,10 +528,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3-MphGv9iHLbJBeHVo5d-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="770" height="640" as="geometry" />
+          <mxGeometry x="70" y="280" width="790" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry width="770" height="40" as="geometry" />
+          <mxGeometry width="790" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-2">
           <mxGeometry width="260" height="40" as="geometry">
@@ -539,203 +539,112 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-2">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+          <mxGeometry x="260" width="530" height="40" as="geometry">
+            <mxRectangle width="530" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="40" width="770" height="40" as="geometry" />
+          <mxGeometry y="40" width="790" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-5">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-6" value="&lt;div align=&quot;left&quot;&gt;&lt;strong data-end=&quot;157&quot; data-start=&quot;128&quot;&gt;Login &amp;amp; Authentication&lt;/strong&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-5">
+          <mxGeometry width="260" height="80" as="geometry">
+            <mxRectangle width="260" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-5">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-7" value="&lt;ul&gt;&lt;li data-end=&quot;218&quot; data-start=&quot;160&quot;&gt;The user logs into the system using their credentials.&lt;/li&gt;&lt;li data-end=&quot;276&quot; data-start=&quot;219&quot;&gt;The system verifies authentication and grants access.&lt;/li&gt;&lt;li data-end=&quot;276&quot; data-start=&quot;219&quot;&gt;The user is redirected to their Dashboard &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-5">
+          <mxGeometry x="260" width="530" height="80" as="geometry">
+            <mxRectangle width="530" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="80" width="770" height="40" as="geometry" />
+          <mxGeometry y="120" width="790" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-8">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-9" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Initiating a Meeting Request&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-8">
+          <mxGeometry width="260" height="70" as="geometry">
+            <mxRectangle width="260" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-8">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-10" value="&lt;ul&gt;&lt;li data-end=&quot;386&quot; data-start=&quot;321&quot;&gt;The user selects the person they want to book a meeting with.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-8">
+          <mxGeometry x="260" width="530" height="70" as="geometry">
+            <mxRectangle width="530" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="120" width="770" height="40" as="geometry" />
+          <mxGeometry y="190" width="790" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-11">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-12" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Selecting Meeting Details&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-11">
+          <mxGeometry width="260" height="160" as="geometry">
+            <mxRectangle width="260" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-11">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-13" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li data-end=&quot;567&quot; data-start=&quot;507&quot;&gt;The user picks a date and time from the available slots and fills all the other form details&lt;/li&gt;&lt;li data-end=&quot;567&quot; data-start=&quot;507&quot;&gt;The user fills in:&lt;br&gt;&lt;ul data-end=&quot;981&quot; data-start=&quot;806&quot;&gt;&lt;li data-end=&quot;837&quot; data-start=&quot;806&quot;&gt;&lt;span data-end=&quot;819&quot; data-start=&quot;808&quot;&gt;Subject&lt;/span&gt; of the meeting.&lt;/li&gt;&lt;li data-end=&quot;876&quot; data-start=&quot;840&quot;&gt;&lt;span data-end=&quot;863&quot; data-start=&quot;842&quot;&gt;Brief description&lt;/span&gt; or agenda.&lt;/li&gt;&lt;li data-end=&quot;930&quot; data-start=&quot;879&quot;&gt;&lt;span data-end=&quot;927&quot; data-start=&quot;881&quot;&gt;Optionally attaches a memo/agenda document&lt;/span&gt;.&lt;/li&gt;&lt;li data-end=&quot;981&quot; data-start=&quot;933&quot;&gt;&lt;span data-end=&quot;953&quot; data-start=&quot;935&quot;&gt;Adds attendees&lt;/span&gt; (more like CC in emails).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-11">
+          <mxGeometry x="260" width="530" height="160" as="geometry">
+            <mxRectangle width="530" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wq5TUQTRR_Jc9vhRrXdK-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
+          <mxGeometry y="350" width="790" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wq5TUQTRR_Jc9vhRrXdK-5" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt; Selecting Meeting Space&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wq5TUQTRR_Jc9vhRrXdK-4">
+          <mxGeometry width="260" height="160" as="geometry">
+            <mxRectangle width="260" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wq5TUQTRR_Jc9vhRrXdK-6" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;The user chooses where the meeting will take place:&lt;/li&gt;&lt;li data-end=&quot;995&quot; data-start=&quot;937&quot;&gt;&lt;span data-end=&quot;958&quot; data-start=&quot;939&quot;&gt;Personal Office&lt;/span&gt; → No additional approval required.&lt;/li&gt;&lt;li data-end=&quot;1080&quot; data-start=&quot;998&quot;&gt;&lt;span data-end=&quot;1023&quot; data-start=&quot;1000&quot;&gt;Shared Meeting Room&lt;/span&gt; → Requires &lt;span data-end=&quot;1057&quot; data-start=&quot;1035&quot;&gt;registrar approval&lt;/span&gt; before confirmation.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wq5TUQTRR_Jc9vhRrXdK-4">
+          <mxGeometry x="260" width="530" height="160" as="geometry">
+            <mxRectangle width="530" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="160" width="770" height="40" as="geometry" />
+          <mxGeometry y="510" width="790" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-14">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-15" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Form submission&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-14">
+          <mxGeometry width="260" height="130" as="geometry">
+            <mxRectangle width="260" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-14">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-16" value="&lt;li data-end=&quot;637&quot; data-start=&quot;568&quot;&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;The system checks for conflicts with existing meetings or events.&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;If a conflict is detected, an error message is displayed, and the user must select a new slot&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;The system does data validation such as email format &lt;/li&gt;&lt;li align=&quot;left&quot;&gt;The meeting status is set to &lt;strong data-end=&quot;1134&quot; data-start=&quot;1121&quot;&gt;&quot;Pending&quot;&lt;/strong&gt;, awaiting recipient approval.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-end=&quot;736&quot; data-start=&quot;638&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;li data-end=&quot;736&quot; data-start=&quot;638&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;li data-end=&quot;736&quot; data-start=&quot;638&quot;&gt;&lt;br&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-14">
+          <mxGeometry x="260" width="530" height="130" as="geometry">
+            <mxRectangle width="530" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="200" width="770" height="40" as="geometry" />
+          <mxGeometry y="640" width="790" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-17">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-18" value="&lt;b&gt;Registrar Approval (Only for Shared Spaces)&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-17">
+          <mxGeometry width="260" height="150" as="geometry">
+            <mxRectangle width="260" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-17">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-19" value="&lt;ul&gt;&lt;li data-end=&quot;1970&quot; data-start=&quot;1886&quot;&gt;If a &lt;strong data-end=&quot;1916&quot; data-start=&quot;1893&quot;&gt;shared meeting room&lt;/strong&gt; was selected, the request is sent to the registrar.&lt;/li&gt;&lt;li data-end=&quot;2114&quot; data-start=&quot;1971&quot;&gt;The registrar can:&lt;br&gt;&lt;ul data-end=&quot;2114&quot; data-start=&quot;1996&quot;&gt;&lt;br&gt;&lt;li data-end=&quot;2035&quot; data-start=&quot;1996&quot;&gt;&lt;strong data-end=&quot;2009&quot; data-start=&quot;1998&quot;&gt;Approve&lt;/strong&gt; → Meeting is confirmed.&lt;/li&gt;&lt;br&gt;&lt;li data-end=&quot;2114&quot; data-start=&quot;2038&quot;&gt;&lt;strong data-end=&quot;2050&quot; data-start=&quot;2040&quot;&gt;Reject&lt;/strong&gt; → The sender is notified, and they must choose another space.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-17">
+          <mxGeometry x="260" width="530" height="150" as="geometry">
+            <mxRectangle width="530" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="240" width="770" height="40" as="geometry" />
+          <mxGeometry y="790" width="790" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-20">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-21" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Sending Meeting Confirmation&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-20">
+          <mxGeometry width="260" height="140" as="geometry">
+            <mxRectangle width="260" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-20">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-22" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;If the meeting is approved:&lt;/li&gt;&lt;li data-end=&quot;2246&quot; data-start=&quot;2193&quot;&gt;The &lt;strong data-end=&quot;2243&quot; data-start=&quot;2199&quot;&gt;meeting status is updated to &quot;Confirmed&quot;&lt;/strong&gt;.&lt;/li&gt;&lt;li data-end=&quot;2417&quot; data-start=&quot;2249&quot;&gt;An &lt;strong data-end=&quot;2276&quot; data-start=&quot;2254&quot;&gt;email notification&lt;/strong&gt; is sent to all attendees with:&lt;br&gt;&lt;ul data-end=&quot;2417&quot; data-start=&quot;2314&quot;&gt;&lt;li data-end=&quot;2329&quot; data-start=&quot;2314&quot;&gt;Date &amp;amp; time&lt;/li&gt;&lt;li data-end=&quot;2354&quot; data-start=&quot;2334&quot;&gt;Meeting location&lt;/li&gt;&lt;li data-end=&quot;2380&quot; data-start=&quot;2359&quot;&gt;List of attendees&lt;/li&gt;&lt;li data-end=&quot;2417&quot; data-start=&quot;2385&quot;&gt;Meeting agenda (if attached)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-20">
+          <mxGeometry x="260" width="530" height="140" as="geometry">
+            <mxRectangle width="530" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-MphGv9iHLbJBeHVo5d-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="280" width="770" height="40" as="geometry" />
+          <mxGeometry y="930" width="790" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-23">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-24" value="&lt;h4 align=&quot;left&quot; data-end=&quot;2461&quot; data-start=&quot;2419&quot;&gt;&lt;span data-end=&quot;2459&quot; data-start=&quot;2424&quot;&gt;Meeting Successfully Booked&lt;/span&gt;&lt;/h4&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-23">
+          <mxGeometry width="260" height="80" as="geometry">
+            <mxRectangle width="260" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-23">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="320" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-26">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-26">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="360" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-29">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-29">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="400" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-32">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-32">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="440" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-35">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-35">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="480" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-38">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-40" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-38">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="520" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-41">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-41">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="560" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-45" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-44">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-44">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-1">
-          <mxGeometry y="600" width="770" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-47">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3-MphGv9iHLbJBeHVo5d-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-47">
-          <mxGeometry x="260" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+        <mxCell id="3-MphGv9iHLbJBeHVo5d-25" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li data-end=&quot;2524&quot; data-start=&quot;2462&quot;&gt;The meeting appears in the &lt;strong data-end=&quot;2521&quot; data-start=&quot;2491&quot;&gt;schedules of all attendees&lt;/strong&gt;.&lt;/li&gt;&lt;li data-end=&quot;2546&quot; data-start=&quot;2525&quot;&gt;The process ends.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="3-MphGv9iHLbJBeHVo5d-23">
+          <mxGeometry x="260" width="530" height="80" as="geometry">
+            <mxRectangle width="530" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
