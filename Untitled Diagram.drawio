@@ -77,21 +77,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sRRNXUWxhpRm9K7YEUa9" name="Page-2">
-    <mxGraphModel dx="3063" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1957" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cWlYashaO7JT2SNnaakb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="1060" height="1570" as="geometry" />
         </mxCell>
-        <mxCell id="cWlYashaO7JT2SNnaakb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="cWlYashaO7JT2SNnaakb-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Staff&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-340" y="690" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cWlYashaO7JT2SNnaakb-10" value="Secretary" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="1100" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cWlYashaO7JT2SNnaakb-11" value="Registrar/Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="520" width="40" height="80" as="geometry" />
+        <mxCell id="cWlYashaO7JT2SNnaakb-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="520" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWlYashaO7JT2SNnaakb-12" value="Book Meeting" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="490" width="120" height="80" as="geometry" />
@@ -341,11 +338,8 @@
             <mxPoint x="720" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9mlSzzA94nhq9b0c_eo5-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cWlYashaO7JT2SNnaakb-10" target="cWlYashaO7JT2SNnaakb-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="1010" as="sourcePoint" />
-            <mxPoint x="680" y="960" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="9mlSzzA94nhq9b0c_eo5-26" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Registrar/Admin&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="548" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
