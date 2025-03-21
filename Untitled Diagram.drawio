@@ -88,7 +88,7 @@
           <mxGeometry x="10" y="720" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWlYashaO7JT2SNnaakb-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="990" y="630" width="40" height="80" as="geometry" />
+          <mxGeometry x="1070" y="650" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWlYashaO7JT2SNnaakb-12" value="Book Meeting" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="480" width="120" height="80" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry x="135" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWlYashaO7JT2SNnaakb-19" value="&lt;div&gt;Approve Common&lt;/div&gt;&lt;div&gt;Space Use&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="880" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWlYashaO7JT2SNnaakb-20" value="Create Event" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="770" width="120" height="80" as="geometry" />
@@ -297,7 +297,7 @@
             <mxPoint x="430" y="1230" as="sourcePoint" />
             <mxPoint x="1670" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="950" y="930" />
+              <mxPoint x="900" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -306,7 +306,8 @@
             <mxPoint x="650" y="550" as="sourcePoint" />
             <mxPoint x="700" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="420" />
+              <mxPoint x="900" y="460" />
+              <mxPoint x="1050" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
