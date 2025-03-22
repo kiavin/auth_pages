@@ -849,12 +849,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rB7eKFLGUAJGV-CEJ8lZ" name="Page-6">
-    <mxGraphModel dx="829" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="829" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5V206-BbUZKrvFz_KBoc-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="170" y="250" width="980" height="356" as="geometry" />
+          <mxGeometry x="240" y="-1212" width="980" height="618" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-1" vertex="1">
           <mxGeometry width="980" height="46" as="geometry" />
@@ -890,7 +890,7 @@
             <mxRectangle width="270" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Users can check the availability of other users before booking a meeting.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-8" vertex="1">
+        <mxCell id="5V206-BbUZKrvFz_KBoc-10" value="Users can search for staff members by name, select a specific staff member, and view their availability on a selected date." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-8" vertex="1">
           <mxGeometry x="270" width="710" height="46" as="geometry">
             <mxRectangle width="710" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -922,153 +922,153 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-1" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="218" width="980" height="214" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-20" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="214" as="geometry">
+            <mxRectangle width="270" height="214" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-20" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-22" value="&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;444&quot; data-start=&quot;385&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;444&quot; data-start=&quot;388&quot;&gt;The user selects the &lt;strong data-end=&quot;434&quot; data-start=&quot;409&quot;&gt;&quot;View Staff Schedule&quot;&lt;/strong&gt; option.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;521&quot; data-start=&quot;448&quot;&gt;The system displays a search bar and a list of available staff members.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;589&quot; data-start=&quot;525&quot;&gt;The user searches for a staff member by name and selects them.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;652&quot; data-start=&quot;593&quot;&gt;The system displays the selected staff member’s calendar.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;722&quot; data-start=&quot;656&quot;&gt;The user clicks on a specific date to view available time slots.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-20" vertex="1">
+          <mxGeometry x="270" width="710" height="214" as="geometry">
+            <mxRectangle width="710" height="214" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-1" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="432" width="980" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-27" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-26" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="66" as="geometry">
+            <mxRectangle width="270" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The user sees available time slots for the target user.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-26" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-28" value="&lt;li class=&quot;&quot; data-end=&quot;920&quot; data-start=&quot;851&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;920&quot; data-start=&quot;853&quot;&gt;The user successfully views the selected staff member’s schedule.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;979&quot; data-start=&quot;921&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;979&quot; data-start=&quot;923&quot;&gt;The system maintains data security and access control.&lt;/p&gt;&lt;/li&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-26" vertex="1">
+          <mxGeometry x="270" width="710" height="66" as="geometry">
+            <mxRectangle width="710" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-1" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="498" width="980" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-23" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="120" as="geometry">
+            <mxRectangle width="270" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-23" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-25" value="&lt;li class=&quot;&quot; data-end=&quot;726&quot; data-start=&quot;652&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;726&quot; data-start=&quot;654&quot;&gt;If the staff member does not exist, the system shows an error message.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;822&quot; data-start=&quot;727&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;822&quot; data-start=&quot;729&quot;&gt;If the user does not have permission to view a particular staff schedule, access is denied.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-23" vertex="1">
+          <mxGeometry x="270" width="710" height="120" as="geometry">
+            <mxRectangle width="710" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-29" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1090" width="980" height="356" as="geometry" />
+          <mxGeometry x="230" y="30" width="980" height="652" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry width="980" height="46" as="geometry" />
+          <mxGeometry width="980" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;use case name&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-30" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="60" as="geometry">
+            <mxRectangle width="270" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-32" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Login&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-30" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="60" as="geometry">
+            <mxRectangle width="710" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="46" width="980" height="34" as="geometry" />
+          <mxGeometry y="60" width="980" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-34" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;scenario&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-33" vertex="1">
-          <mxGeometry width="270" height="34" as="geometry">
-            <mxRectangle width="270" height="34" as="alternateBounds" />
+          <mxGeometry width="270" height="58" as="geometry">
+            <mxRectangle width="270" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-35" value="Attempt to login " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-33" vertex="1">
-          <mxGeometry x="270" width="710" height="34" as="geometry">
-            <mxRectangle width="710" height="34" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="58" as="geometry">
+            <mxRectangle width="710" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="80" width="980" height="46" as="geometry" />
+          <mxGeometry y="118" width="980" height="78" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-37" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Description&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-36" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="78" as="geometry">
+            <mxRectangle width="270" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Users log in using their credentials (username and password). Successful authentication grants access to the system based on role permissions.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-36" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="78" as="geometry">
+            <mxRectangle width="710" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="126" width="980" height="46" as="geometry" />
+          <mxGeometry y="196" width="980" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-40" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Actors&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-39" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="66" as="geometry">
+            <mxRectangle width="270" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-41" value="Staff, Admin" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-39" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="66" as="geometry">
+            <mxRectangle width="710" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="172" width="980" height="46" as="geometry" />
+          <mxGeometry y="262" width="980" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-43" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pre-condition&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-42" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="84" as="geometry">
+            <mxRectangle width="270" height="84" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The user must have valid login credentials.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-42" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-44" value="&lt;li class=&quot;&quot; data-end=&quot;2475&quot; data-start=&quot;2434&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;2475&quot; data-start=&quot;2436&quot;&gt;The user must have valid credentials.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;2506&quot; data-start=&quot;2476&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;2506&quot; data-start=&quot;2478&quot;&gt;The system must be online.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-42" vertex="1">
+          <mxGeometry x="270" width="710" height="84" as="geometry">
+            <mxRectangle width="710" height="84" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="346" width="980" height="136" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-46" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-45" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="136" as="geometry">
+            <mxRectangle width="270" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-45" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-47" value="&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;2572&quot; data-start=&quot;2530&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;2572&quot; data-start=&quot;2533&quot;&gt;The user navigates to the login page.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;2622&quot; data-start=&quot;2576&quot;&gt;The user enters their username and password.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;2664&quot; data-start=&quot;2626&quot;&gt;The system verifies the credentials.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;2722&quot; data-start=&quot;2668&quot;&gt;If valid, the user is redirected to their dashboard.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-45" vertex="1">
+          <mxGeometry x="270" width="710" height="136" as="geometry">
+            <mxRectangle width="710" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="482" width="980" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-49" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-48" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="60" as="geometry">
+            <mxRectangle width="270" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;The user is successfully authenticated and redirected to the dashboard&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-48" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="60" as="geometry">
+            <mxRectangle width="710" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-29" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="542" width="980" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-51" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="110" as="geometry">
+            <mxRectangle width="270" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-51" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-53" value="&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;2839&quot; data-start=&quot;2756&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;2839&quot; data-start=&quot;2758&quot;&gt;If the username or password is incorrect, the system displays an error message.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;2919&quot; data-start=&quot;2842&quot;&gt;If the account is deactivated, login is denied with an appropriate message.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;3001&quot; data-start=&quot;2922&quot;&gt;If the system is down, the user cannot log in and sees a maintenance message.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-51" vertex="1">
+          <mxGeometry x="270" width="710" height="110" as="geometry">
+            <mxRectangle width="710" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="160" y="640" width="980" height="356" as="geometry" />
+          <mxGeometry x="1280" y="-560" width="980" height="824" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-54" vertex="1">
           <mxGeometry width="980" height="46" as="geometry" />
@@ -1130,52 +1130,52 @@
             <mxRectangle width="270" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The user must be logged in.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The recipient(s) must be available at the selected time.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-67" vertex="1">
+        <mxCell id="5V206-BbUZKrvFz_KBoc-69" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The user must be logged in.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The system must have access to staff schedules and meeting spaces.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-67" vertex="1">
           <mxGeometry x="270" width="710" height="46" as="geometry">
             <mxRectangle width="710" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-54" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="218" width="980" height="312" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-71" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-70" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="312" as="geometry">
+            <mxRectangle width="270" height="312" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-70" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-72" value="&lt;li class=&quot;&quot; data-end=&quot;554&quot; data-start=&quot;500&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;554&quot; data-start=&quot;503&quot;&gt;The user selects the &lt;strong data-end=&quot;544&quot; data-start=&quot;524&quot;&gt;&quot;Create Meeting&quot;&lt;/strong&gt; option.&lt;/p&gt;The system prompts the user to search for and select a staff member.&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;736&quot; data-start=&quot;629&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;736&quot; data-start=&quot;632&quot;&gt;The user selects a date and time, then enters meeting details (subject, description, optional agenda).&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1229&quot; data-start=&quot;1008&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1103&quot; data-start=&quot;1011&quot;&gt;If the user selects a &lt;strong data-end=&quot;1049&quot; data-start=&quot;1033&quot;&gt;shared space&lt;/strong&gt;, the request is sent to the registrar for approval.&lt;/p&gt;&lt;ul data-end=&quot;1229&quot; data-start=&quot;1107&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;1153&quot; data-start=&quot;1107&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1153&quot; data-start=&quot;1109&quot;&gt;&lt;strong data-end=&quot;1125&quot; data-start=&quot;1109&quot;&gt;If approved,&lt;/strong&gt; the meeting is scheduled.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;1229&quot; data-start=&quot;1159&quot;&gt;&lt;strong data-end=&quot;1175&quot; data-start=&quot;1159&quot;&gt;If rejected,&lt;/strong&gt; the user is notified and must choose another space.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;&quot; data-end=&quot;1272&quot; data-start=&quot;1233&quot;&gt;The user submits the meeting request.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1272&quot; data-start=&quot;1230&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;819&quot; data-start=&quot;740&quot;&gt;The system checks for conflicts (double booking, overlapping events, leaves).&lt;/p&gt;&lt;ul data-end=&quot;920&quot; data-start=&quot;823&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;920&quot; data-start=&quot;823&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;920&quot; data-start=&quot;825&quot;&gt;&lt;strong data-end=&quot;852&quot; data-start=&quot;825&quot;&gt;If a conflict is found,&lt;/strong&gt; an error is displayed, and the user must choose a different time.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;920&quot; data-start=&quot;823&quot;&gt;The system updates schedules, sends notifications to all attendees, and records the meeting.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-70" vertex="1">
+          <mxGeometry x="270" width="710" height="312" as="geometry">
+            <mxRectangle width="710" height="312" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-54" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="530" width="980" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-74" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-73" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="100" as="geometry">
+            <mxRectangle width="270" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The meeting is created with a&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-end=&quot;1736&quot; data-start=&quot;1714&quot;&gt;&quot;Pending Approval&quot;&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;status if shared space was selected must be approved by regisrtar.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;An email notification is sent to attendees .&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-73" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-75" value="&lt;li class=&quot;&quot; data-end=&quot;1723&quot; data-start=&quot;1649&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1723&quot; data-start=&quot;1651&quot;&gt;The meeting is successfully scheduled, and all attendees are notified.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1809&quot; data-start=&quot;1724&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;1809&quot; data-start=&quot;1726&quot;&gt;If a shared space is requested, it remains pending until approved by the registrar.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1809&quot; data-start=&quot;1724&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1809&quot; data-start=&quot;1726&quot;&gt;Attendees receive notifications to accept/reject the invitation.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-73" vertex="1">
+          <mxGeometry x="270" width="710" height="100" as="geometry">
+            <mxRectangle width="710" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5V206-BbUZKrvFz_KBoc-54" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="630" width="980" height="194" as="geometry" />
         </mxCell>
         <mxCell id="5V206-BbUZKrvFz_KBoc-77" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-76" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="194" as="geometry">
+            <mxRectangle width="270" height="194" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V206-BbUZKrvFz_KBoc-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-76" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="5V206-BbUZKrvFz_KBoc-78" value="&lt;br/&gt;&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;1902&quot; data-start=&quot;1802&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1902&quot; data-start=&quot;1804&quot;&gt;If the selected time slot is already booked, the system prompts the user to select another time.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1983&quot; data-start=&quot;1903&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;1983&quot; data-start=&quot;1905&quot;&gt;If the selected meeting space is unavailable, an alternative must be chosen.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;2061&quot; data-start=&quot;1984&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;2061&quot; data-start=&quot;1986&quot;&gt;If the request fails due to system issues, an error message is displayed.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5V206-BbUZKrvFz_KBoc-76" vertex="1">
+          <mxGeometry x="270" width="710" height="194" as="geometry">
+            <mxRectangle width="710" height="194" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1680" width="980" height="356" as="geometry" />
+          <mxGeometry x="230" y="821" width="980" height="650" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-1" vertex="1">
           <mxGeometry width="980" height="46" as="geometry" />
@@ -1211,7 +1211,7 @@
             <mxRectangle width="270" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;When a user is invited to a meeting, they receive an email with a confirmation link. They can either&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-end=&quot;188&quot; data-start=&quot;178&quot;&gt;accept&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;or&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-end=&quot;202&quot; data-start=&quot;192&quot;&gt;reject&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;the meeting invitation. If they reject the invitation, they must provide a reason.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-8" vertex="1">
+        <mxCell id="3DPlZd9bucTylFo51UdY-10" value="Attendees can accept or reject a meeting invitation through an email link or directly from the system. If rejected, a reason must be provided." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-8" vertex="1">
           <mxGeometry x="270" width="710" height="46" as="geometry">
             <mxRectangle width="710" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -1230,166 +1230,166 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-1" vertex="1">
-          <mxGeometry y="172" width="980" height="46" as="geometry" />
+          <mxGeometry y="172" width="980" height="68" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-15" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pre-condition&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-14" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="68" as="geometry">
+            <mxRectangle width="270" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The meeting must be scheduled and have a&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-end=&quot;529&quot; data-start=&quot;507&quot;&gt;&quot;Pending Response&quot;&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;status for the attendee i.e only one response is allowed.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The attendee must receive an email invitation with a confirmation link.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-14" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-16" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The attendee must receive an email invitation with a confirmation link.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The attendee has not responded to this invite(only one response is allowed)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-14" vertex="1">
+          <mxGeometry x="270" width="710" height="68" as="geometry">
+            <mxRectangle width="710" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-1" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="240" width="980" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-18" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-17" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="240" as="geometry">
+            <mxRectangle width="270" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-17" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-19" value="&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;579&quot; data-start=&quot;495&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;579&quot; data-start=&quot;498&quot;&gt;The system sends an email invitation to attendees with a &lt;strong data-end=&quot;576&quot; data-start=&quot;555&quot;&gt;confirmation link&lt;/strong&gt;.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;667&quot; data-start=&quot;583&quot;&gt;The user clicks the link, which redirects to the &lt;strong data-end=&quot;664&quot; data-start=&quot;632&quot;&gt;attendance confirmation page&lt;/strong&gt;.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;754&quot; data-start=&quot;671&quot;&gt;The system displays meeting details (date, time, location, organizer, attendees).&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;970&quot; data-start=&quot;755&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;802&quot; data-start=&quot;758&quot;&gt;The user selects &lt;strong data-end=&quot;785&quot; data-start=&quot;775&quot;&gt;Accept&lt;/strong&gt; or &lt;strong data-end=&quot;799&quot; data-start=&quot;789&quot;&gt;Reject&lt;/strong&gt;:&lt;/p&gt;&lt;ul data-end=&quot;970&quot; data-start=&quot;806&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;901&quot; data-start=&quot;806&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;901&quot; data-start=&quot;808&quot;&gt;&lt;strong data-end=&quot;822&quot; data-start=&quot;808&quot;&gt;If Accept:&lt;/strong&gt; The system updates the attendance status and notifies the meeting organizer.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;970&quot; data-start=&quot;905&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;970&quot; data-start=&quot;907&quot;&gt;&lt;strong data-end=&quot;921&quot; data-start=&quot;907&quot;&gt;If Reject:&lt;/strong&gt; The system prompts the user to enter a reason.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;1026&quot; data-start=&quot;971&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1026&quot; data-start=&quot;974&quot;&gt;The system updates the meeting status accordingly.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-17" vertex="1">
+          <mxGeometry x="270" width="710" height="240" as="geometry">
+            <mxRectangle width="710" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-1" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="480" width="980" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-21" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-20" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="70" as="geometry">
+            <mxRectangle width="270" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-22" value="The meeting invitation status is updated based on the attendee&#39;s response.The organizer is informed of attendees’ decisions.&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-20" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="70" as="geometry">
+            <mxRectangle width="710" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-1" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="550" width="980" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-23" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="100" as="geometry">
+            <mxRectangle width="270" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-23" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-25" value="&lt;li class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3762&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3764&quot;&gt;If the user tries to respond after the deadline, an error message is shown&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3762&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3764&quot;&gt;If the system is down, the user cannot respond until it&#39;s restored.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3762&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;3841&quot; data-start=&quot;3764&quot;&gt;if the attendee already responded an error in shown&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-23" vertex="1">
+          <mxGeometry x="270" width="710" height="100" as="geometry">
+            <mxRectangle width="710" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-29" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="120" y="2110" width="980" height="356" as="geometry" />
+          <mxGeometry x="240" y="1880" width="980" height="890" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry width="980" height="46" as="geometry" />
+          <mxGeometry width="980" height="61" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;use case name&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-30" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="61" as="geometry">
+            <mxRectangle width="270" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Reschedule meeting&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-30" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="61" as="geometry">
+            <mxRectangle width="710" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="46" width="980" height="34" as="geometry" />
+          <mxGeometry y="61" width="980" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-34" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;scenario&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-33" vertex="1">
-          <mxGeometry width="270" height="34" as="geometry">
-            <mxRectangle width="270" height="34" as="alternateBounds" />
+          <mxGeometry width="270" height="46" as="geometry">
+            <mxRectangle width="270" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-33" vertex="1">
-          <mxGeometry x="270" width="710" height="34" as="geometry">
-            <mxRectangle width="710" height="34" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="46" as="geometry">
+            <mxRectangle width="710" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="80" width="980" height="46" as="geometry" />
+          <mxGeometry y="107" width="980" height="61" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-37" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Description&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-36" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="61" as="geometry">
+            <mxRectangle width="270" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;A user can request to change the date, time, or meeting space of a scheduled meeting. The recipient must approve the changes.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-36" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-38" value="Users can modify the date, time, or location of a scheduled meeting." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-36" vertex="1">
+          <mxGeometry x="270" width="710" height="61" as="geometry">
+            <mxRectangle width="710" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="126" width="980" height="46" as="geometry" />
+          <mxGeometry y="168" width="980" height="62" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-40" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Actors&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-39" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="62" as="geometry">
+            <mxRectangle width="270" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-41" value="Staff, Admin" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-39" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+          <mxGeometry x="270" width="710" height="62" as="geometry">
+            <mxRectangle width="710" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="172" width="980" height="46" as="geometry" />
+          <mxGeometry y="230" width="980" height="116" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-43" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pre-condition&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-42" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="116" as="geometry">
+            <mxRectangle width="270" height="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The meeting must already be booked&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-42" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-44" value="&lt;li class=&quot;&quot; data-end=&quot;4310&quot; data-start=&quot;4275&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;4310&quot; data-start=&quot;4277&quot;&gt;The meeting must already exist.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4359&quot; data-start=&quot;4313&quot;&gt;The user must have permission to reschedule.&lt;/p&gt;&lt;/li&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-42" vertex="1">
+          <mxGeometry x="270" width="710" height="116" as="geometry">
+            <mxRectangle width="710" height="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="346" width="980" height="364" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-46" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="364" as="geometry">
+            <mxRectangle width="270" height="364" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-47" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4383&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;The user selects the meeting and chooses &lt;strong data-end=&quot;4443&quot; data-start=&quot;4427&quot;&gt;&quot;Reschedule&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4505&quot; data-start=&quot;4447&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;4505&quot; data-start=&quot;4450&quot;&gt;The system prompts for a new date, time, or location.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4506&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;The system checks for conflicts.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4608&quot; data-start=&quot;4544&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;4608&quot; data-start=&quot;4547&quot;&gt;If no conflicts exist, the reschedule request is submitted.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4662&quot; data-start=&quot;4609&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;4662&quot; data-start=&quot;4612&quot;&gt;The system notifies all attendees of the change.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
+          <mxGeometry x="270" width="710" height="364" as="geometry">
+            <mxRectangle width="710" height="364" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="710" width="980" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-49" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-48" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="80" as="geometry">
+            <mxRectangle width="270" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;If approved, the meeting details are updated.If rejected, the original meeting details remain unchanged.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-48" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-50" value="&lt;li class=&quot;&quot; data-end=&quot;4924&quot; data-start=&quot;4876&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;4924&quot; data-start=&quot;4878&quot;&gt;The meeting is updated with the new details.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4965&quot; data-start=&quot;4925&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;4965&quot; data-start=&quot;4927&quot;&gt;Notifications are sent to attendees.&lt;/p&gt;&lt;/li&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-48" vertex="1">
+          <mxGeometry x="270" width="710" height="80" as="geometry">
+            <mxRectangle width="710" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="790" width="980" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="100" as="geometry">
+            <mxRectangle width="270" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-53" value="&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4696&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4698&quot;&gt;If the new time conflicts with another meeting, an error message is shown.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4696&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4698&quot;&gt;If an attendee rejects the new time, further rescheduling is needed.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
+          <mxGeometry x="270" width="710" height="100" as="geometry">
+            <mxRectangle width="710" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="120" y="2520" width="980" height="356" as="geometry" />
+          <mxGeometry x="1310" y="2440" width="980" height="560" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-54" vertex="1">
           <mxGeometry width="980" height="46" as="geometry" />
@@ -1444,59 +1444,59 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-54" vertex="1">
-          <mxGeometry y="172" width="980" height="46" as="geometry" />
+          <mxGeometry y="172" width="980" height="89" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-68" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pre-condition&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-67" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="89" as="geometry">
+            <mxRectangle width="270" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The meeting must already be booked&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-67" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-69" value="&lt;li class=&quot;&quot; data-end=&quot;5178&quot; data-start=&quot;5151&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5178&quot; data-start=&quot;5153&quot;&gt;The meeting must exist.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5235&quot; data-start=&quot;5179&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5235&quot; data-start=&quot;5181&quot;&gt;The user must have permission to cancel the meeting.&lt;/p&gt;&lt;/li&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-67" vertex="1">
+          <mxGeometry x="270" width="710" height="89" as="geometry">
+            <mxRectangle width="710" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-54" vertex="1">
-          <mxGeometry y="218" width="980" height="46" as="geometry" />
+          <mxGeometry y="261" width="980" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-71" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-70" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="130" as="geometry">
+            <mxRectangle width="270" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-70" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-72" value="&lt;ol data-end=&quot;5466&quot; data-start=&quot;5259&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;5318&quot; data-start=&quot;5259&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5318&quot; data-start=&quot;5262&quot;&gt;The user selects the meeting and chooses &lt;strong data-end=&quot;5315&quot; data-start=&quot;5303&quot;&gt;&quot;Cancel&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5318&quot; data-start=&quot;5259&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5318&quot; data-start=&quot;5262&quot;&gt;The system prompts for a reason.&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5367&quot; data-start=&quot;5319&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5426&quot; data-start=&quot;5371&quot;&gt;The system updates the meeting status to &quot;Cancelled.&quot;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5466&quot; data-start=&quot;5427&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5466&quot; data-start=&quot;5430&quot;&gt;The system notifies all attendees.&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;h4 class=&quot;&quot; data-end=&quot;5499&quot; data-start=&quot;5468&quot;&gt;&lt;strong data-end=&quot;5497&quot; data-start=&quot;5473&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h4&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-70" vertex="1">
+          <mxGeometry x="270" width="710" height="130" as="geometry">
+            <mxRectangle width="710" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-54" vertex="1">
-          <mxGeometry y="264" width="980" height="46" as="geometry" />
+          <mxGeometry y="391" width="980" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-74" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-73" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="80" as="geometry">
+            <mxRectangle width="270" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-75" value="The meeting status is changed to &quot;Cancelled.&quot;An email notification is sent to all attendees.&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-73" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-75" value="&lt;li class=&quot;&quot; data-end=&quot;5701&quot; data-start=&quot;5656&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5701&quot; data-start=&quot;5658&quot;&gt;The meeting is removed from the schedule.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5740&quot; data-start=&quot;5702&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;5740&quot; data-start=&quot;5704&quot;&gt;Notifications are sent to attendees.&lt;/p&gt;&lt;/li&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-73" vertex="1">
+          <mxGeometry x="270" width="710" height="80" as="geometry">
+            <mxRectangle width="710" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-54" vertex="1">
-          <mxGeometry y="310" width="980" height="46" as="geometry" />
+          <mxGeometry y="471" width="980" height="89" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-77" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-76" vertex="1">
-          <mxGeometry width="270" height="46" as="geometry">
-            <mxRectangle width="270" height="46" as="alternateBounds" />
+          <mxGeometry width="270" height="89" as="geometry">
+            <mxRectangle width="270" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-76" vertex="1">
-          <mxGeometry x="270" width="710" height="46" as="geometry">
-            <mxRectangle width="710" height="46" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-78" value="&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;5568&quot; data-start=&quot;5500&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;5568&quot; data-start=&quot;5502&quot;&gt;If the meeting has already started, cancellation is not allowed.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;5627&quot; data-start=&quot;5569&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;5627&quot; data-start=&quot;5571&quot;&gt;If the system is down, the cancellation request fails.&lt;/p&gt;&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-76" vertex="1">
+          <mxGeometry x="270" width="710" height="89" as="geometry">
+            <mxRectangle width="710" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-82" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="120" y="2930" width="980" height="654" as="geometry" />
+          <mxGeometry x="1350" y="3290" width="980" height="654" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-82" vertex="1">
           <mxGeometry width="980" height="46" as="geometry" />
@@ -2031,7 +2031,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XzqHikHoQIbMlcwwCMR4-51" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="160" y="6500" width="980" height="1058" as="geometry" />
+          <mxGeometry x="230" y="9510" width="980" height="1058" as="geometry" />
         </mxCell>
         <mxCell id="XzqHikHoQIbMlcwwCMR4-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XzqHikHoQIbMlcwwCMR4-51">
           <mxGeometry width="980" height="46" as="geometry" />
