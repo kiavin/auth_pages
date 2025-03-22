@@ -1337,7 +1337,7 @@
             <mxRectangle width="270" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XzqHikHoQIbMlcwwCMR4-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Admin&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XzqHikHoQIbMlcwwCMR4-11" vertex="1">
+        <mxCell id="XzqHikHoQIbMlcwwCMR4-13" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Admin&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="XzqHikHoQIbMlcwwCMR4-11" vertex="1">
           <mxGeometry x="270" width="530" height="46" as="geometry">
             <mxRectangle width="530" height="46" as="alternateBounds" />
           </mxGeometry>
