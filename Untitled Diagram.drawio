@@ -714,10 +714,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-29" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1360" width="800" height="664" as="geometry" />
+          <mxGeometry x="10" y="1360" width="810" height="664" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry width="800" height="61" as="geometry" />
+          <mxGeometry width="810" height="61" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;use case name&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-30" vertex="1">
           <mxGeometry width="270" height="61" as="geometry">
@@ -725,12 +725,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Reschedule meeting&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-30" vertex="1">
-          <mxGeometry x="270" width="530" height="61" as="geometry">
-            <mxRectangle width="530" height="61" as="alternateBounds" />
+          <mxGeometry x="270" width="540" height="61" as="geometry">
+            <mxRectangle width="540" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="61" width="800" height="61" as="geometry" />
+          <mxGeometry y="61" width="810" height="61" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-37" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Description&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-36" vertex="1">
           <mxGeometry width="270" height="61" as="geometry">
@@ -738,12 +738,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-38" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Users can modify the date, time, or location of a scheduled meeting.&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-36" vertex="1">
-          <mxGeometry x="270" width="530" height="61" as="geometry">
-            <mxRectangle width="530" height="61" as="alternateBounds" />
+          <mxGeometry x="270" width="540" height="61" as="geometry">
+            <mxRectangle width="540" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="122" width="800" height="62" as="geometry" />
+          <mxGeometry y="122" width="810" height="62" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-40" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Actors&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-39" vertex="1">
           <mxGeometry width="270" height="62" as="geometry">
@@ -751,12 +751,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-41" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Staff, Admin&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-39" vertex="1">
-          <mxGeometry x="270" width="530" height="62" as="geometry">
-            <mxRectangle width="530" height="62" as="alternateBounds" />
+          <mxGeometry x="270" width="540" height="62" as="geometry">
+            <mxRectangle width="540" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="184" width="800" height="116" as="geometry" />
+          <mxGeometry y="184" width="810" height="116" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-43" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pre-condition&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-42" vertex="1">
           <mxGeometry width="270" height="116" as="geometry">
@@ -764,25 +764,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-44" value="&lt;p class=&quot;&quot; data-end=&quot;4310&quot; data-start=&quot;4277&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The meeting must already exist.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4359&quot; data-start=&quot;4313&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The user must have permission to reschedule.&lt;/font&gt;&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-42" vertex="1">
-          <mxGeometry x="270" width="530" height="116" as="geometry">
-            <mxRectangle width="530" height="116" as="alternateBounds" />
+          <mxGeometry x="270" width="540" height="116" as="geometry">
+            <mxRectangle width="540" height="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="300" width="800" height="194" as="geometry" />
+          <mxGeometry y="300" width="810" height="194" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-46" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;basic flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
           <mxGeometry width="270" height="194" as="geometry">
             <mxRectangle width="270" height="194" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-47" value="&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The user selects the meeting and chooses &lt;strong data-end=&quot;4443&quot; data-start=&quot;4427&quot;&gt;&quot;Edit&quot;&lt;/strong&gt;.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system provides a form with the current meeting details, the user can update any of the fields and submit the form.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system checks for conflicts.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If no conflicts exist, the reschedule request is submitted.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system notifies all attendees of the change.&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
-          <mxGeometry x="270" width="530" height="194" as="geometry">
-            <mxRectangle width="530" height="194" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-47" value="&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The user selects the meeting and chooses &lt;strong data-end=&quot;4443&quot; data-start=&quot;4427&quot;&gt;&quot;Edit&quot;&lt;/strong&gt;.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The user can click the Suggest button that suggest a date and time of next available timeslot that suits the meeting or manually choose a diffrent date&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4446&quot; data-start=&quot;4386&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system provides a form with the current meeting details, the user can update any of the fields and submit the form.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system checks for conflicts.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If no conflicts exist, the reschedule request is submitted.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4543&quot; data-start=&quot;4509&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The system notifies all attendees of the change.&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-45" vertex="1">
+          <mxGeometry x="270" width="540" height="194" as="geometry">
+            <mxRectangle width="540" height="194" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="494" width="800" height="80" as="geometry" />
+          <mxGeometry y="494" width="810" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-49" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;post-condition&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-48" vertex="1">
           <mxGeometry width="270" height="80" as="geometry">
@@ -790,21 +790,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The meeting is updated with the new details.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;Notifications are sent to attendees.&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-48" vertex="1">
-          <mxGeometry x="270" width="530" height="80" as="geometry">
-            <mxRectangle width="530" height="80" as="alternateBounds" />
+          <mxGeometry x="270" width="540" height="80" as="geometry">
+            <mxRectangle width="540" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3DPlZd9bucTylFo51UdY-29" vertex="1">
-          <mxGeometry y="574" width="800" height="90" as="geometry" />
+          <mxGeometry y="574" width="810" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Alternate flow&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
           <mxGeometry width="270" height="90" as="geometry">
             <mxRectangle width="270" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DPlZd9bucTylFo51UdY-53" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4698&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If the new time conflicts with another meeting, an error message is shown.&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4698&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If an attendee rejects the new time, further rescheduling is needed.&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
-          <mxGeometry x="270" width="530" height="90" as="geometry">
-            <mxRectangle width="530" height="90" as="alternateBounds" />
+        <mxCell id="3DPlZd9bucTylFo51UdY-53" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p class=&quot;&quot; data-end=&quot;4774&quot; data-start=&quot;4698&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If the new time conflicts with another meeting, an error message is shown and user is prompted to select another date or time.&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="3DPlZd9bucTylFo51UdY-51" vertex="1">
+          <mxGeometry x="270" width="540" height="90" as="geometry">
+            <mxRectangle width="540" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DPlZd9bucTylFo51UdY-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
